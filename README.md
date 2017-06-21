@@ -5,7 +5,7 @@ This Web API is used on www.CareerOneStop.org to Find a list of American Job Cen
 
 <h2>American Job Centers APIs<h2>
 
-<a href="https://www.careeronestop.org/Developers/WebAPI/AmericanJobCentersList/list-ajcs-by-location.aspxList">AJCs by Location</a>
+<a href="https://www.careeronestop.org/Developers/WebAPI/AmericanJobCentersList/list-ajcs-by-location.aspx">AJCs by Location</a>
 
-<a href="https://www.careeronestop.org/Developers/WebAPI/AmericanJobCentersList/get-ajc-details-by-id.aspxList"> AJC Details by ID</a>
+<a href="https://www.careeronestop.org/Developers/WebAPI/AmericanJobCentersList/get-ajc-details-by-id.aspx"> AJC Details by ID</a>
 
