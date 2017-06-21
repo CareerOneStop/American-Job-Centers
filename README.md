@@ -1,7 +1,7 @@
 # American-Job-Centers
 
 
-This Web API is used on www.CareerOneStop.org to Find a list of American Job Centers. Nearly 2,500 American Job Centers (AJCs) nationwide help people search for jobs, find training, and answer other employment related questions. 
+These APIs list American Job Centers within a geographic area you specify and provides specific details related to each job center. Nearly 2,500 American Job Centers (AJCs) nationwide help people search for jobs, find training, and answer other employment related questions. 
 
 <h2>American Job Centers APIs<h2>
 
